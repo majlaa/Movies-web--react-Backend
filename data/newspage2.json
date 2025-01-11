@@ -1,0 +1,83 @@
+
+[
+  {
+    "id": "1",
+    "title": "LAJMI 1",
+    "category": "Kulture",
+    "description": "Greqia me rregullore e re për emigrantët/ Guri: Problematikë e burokraci prej 30 vitesh. Shteti duhet ta kishte zgjidhur me kohë",
+    "image": "/images/lajmi1.png",
+    "date": "Janar 14 2024"
+  },
+  {
+    "id": "2",
+    "title": "LAJMI 2",
+    "category": "Politike",
+    "description": "Greqia me rregullore e re për emigrantët/ Guri: Problematikë e burokraci prej 30 vitesh. Shteti duhet ta kishte zgjidhur me kohë",
+    "image": "/images/lajmi2.png",
+    "date": "Janar 14 2024"
+  },
+  {
+    "id": "3",
+    "title": "LAJMI 3",
+    "category": "Kulture",
+    "description": "Greqia me rregullore e re për emigrantët/ Guri: Problematikë e burokraci prej 30 vitesh. Shteti duhet ta kishte zgjidhur me kohë",
+    "image": "images/lajmi3.png",
+    "date": "Janar 14 2024"
+  },
+  {
+    "id": "4",
+    "title": "LAJMI 4",
+    "category": "Lajme",
+    "description": "Greqia me rregullore e re për emigrantët/ Guri: Problematikë e burokraci prej 30 vitesh. Shteti duhet ta kishte zgjidhur me kohë",
+    "image": "images/lajmi4.jpeg",
+    "date": "Janar 14 2024"
+  },
+  {
+    "id": "5",
+    "title": "LAJMI 5",
+    "category": "Intervista",
+    "description": "Greqia me rregullore e re për emigrantët/ Guri: Problematikë e burokraci prej 30 vitesh. Shteti duhet ta kishte zgjidhur me kohë",
+    "image": "images/lajmi5.jpeg",
+    "date": "Janar 14 2024"
+  },
+  {
+    "id": "6",
+    "title": "LAJMI 6",
+    "category": "Live",
+    "description": "Greqia me rregullore e re për emigrantët/ Guri: Problematikë e burokraci prej 30 vitesh. Shteti duhet ta kishte zgjidhur me kohë",
+    "image": "images/lajmi6.jpeg",
+    "date": "Janar 14 2024"
+  },
+  {
+    "id": "7",
+    "title": "LAJMI 7",
+    "category": "Football",
+    "description": "Greqia me rregullore e re për emigrantët/ Guri: Problematikë e burokraci prej 30 vitesh. Shteti duhet ta kishte zgjidhur me kohë",
+    "image": "images/lajmi7.png",
+    "date": "Janar 14 2024"
+  },
+  {
+    "id": "8",
+    "title": "LAJMI 8",
+    "category": "Sport",
+    "description": "Greqia me rregullore e re për emigrantët/ Guri: Problematikë e burokraci prej 30 vitesh. Shteti duhet ta kishte zgjidhur me kohë",
+    "image": "images/lajmi8.jpeg",
+    "date": "Janar 14 2024"
+  },
+  {
+    "id": "9",
+    "title": "LAJMI 9",
+    "category": "Sociale",
+    "description": "Greqia me rregullore e re për emigrantët/ Guri: Problematikë e burokraci prej 30 vitesh. Shteti duhet ta kishte zgjidhur me kohë",
+    "image": "images/lajmi9.jpeg",
+    "date": "Janar 14 2024"
+  },
+  {
+    "id": "10",
+    "title": "LAJMI 10",
+    "category": "Aktualitet",
+    "description": "Greqia me rregullore e re për emigrantët/ Guri: Problematikë e burokraci prej 30 vitesh. Shteti duhet ta kishte zgjidhur me kohë",
+    "image": "images/lajmi10.jpeg",
+    "date": "Janar 14 2024"
+  }
+]

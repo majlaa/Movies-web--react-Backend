@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "title": "Anyone but you",
+    "description": "In the edgy comedy Anyone But You, Bea (Sydney Sweeney) and Ben (Glen Powell) look like the perfect couple, but after an amazing first date something happens that turns their fiery hot attraction ice cold -- until they find themselves unexpectedly thrust together at a destination wedding in Australia.",
+    "image": "/images/AnyoneButYou.webp",
+    "stars": "Sydney Sweeney, Glen Powell, Alexandra Shipp",
+    "duration": "1h 43m"
+  },
+  {
+    "id": "2",
+    "title": "Purple hearts",
+    "description": "In Purple Hearts, we meet aspiring musician Cassie (Sofia Carson), who marries US Marine Luke (Nicholas Galitzine) for health benefits. Despite coming from different backgrounds and political beliefs, the young couple eventually realizes that there's more that unites than divides them.",
+    "image": "/images/PurpleHearts.jpg",
+    "stars": "Sofia Carson, Nicholas Galitzine, Chosen Jacobs",
+    "duration": "2h 2m"
+  },
+  {
+    "id": "3",
+    "title": "Nowhere",
+    "description": "The plot follows a pregnant woman separated from her husband while trying to flee the country to Ireland. She then finds herself trying to survive inside a shipping container in the heart of the sea.",
+    "image": "/images/Nowhere.png",
+    "stars": "Anna Castillo, Tamar Novas",
+    "duration": "1h 49m"
+  },
+  {
+    "id": "4",
+    "title": "Avatar",
+    "description": "The films follow a U.S. Marine named Jake Sully (Sam Worthington) who becomes part of a program in which human colonizers explore and exploit an alien world called Pandora. The humans interact with a humanoid species called the Na'vi by inhabiting genetically engineered “avatar” bodies that resemble those of the Na'vi.",
+    "image": "/images/Avatar.webp",
+    "stars": "Sam Worthington, Zoe Saldana, Sigourney Weaver",
+    "duration": "2h 42m"
+  },
+  {
+    "id": "5",
+    "title": "Up",
+    "description": "The film centers on Carl Fredricksen (Asner), an elderly widower who travels to South America with youngster Russell (Nagai) in order to fulfill a promise that he made to his late wife Ellie. In the jungle, they encounter an exotic bird and discover someone has sinister plans to capture it.",
+    "image": "/images/up.jpeg",
+    "stars": "Edward Asner, Jordan Nagai, John Ratzenberger",
+    "duration": "1h 37m"
+  },
+  {
+    "id": "6",
+    "title": "Fall",
+    "description": "Fall revolves around a grieving mountain climber named Becky whose husband Dan fell to his death. A year later, her friend Hunter proposes climbing to the top of a decommissioned 2,000-foot TV tower to scatter his ashes, and Becky agrees in the hope that it will help her to move on",
+    "image": "/images/fall.jpeg",
+    "stars": "Grace Caroline Currey, Virginia Gardner, Mason Gooding",
+    "duration": "1h 47m"
+  },
+  {
+    "id": "7",
+    "title": "Joker",
+    "description": " A mentally ill, impoverished party clown and stand-up comedian disregarded by society, whose history of abuse causes him to become a nihilistic criminal with a clown-inspired persona.",
+    "image": "/images/joker.jpg",
+    "stars": "Joaquin Phoenix, Robert De Niro, Zazie Beetz",
+    "duration": "2h 2m"
+  }
+]
